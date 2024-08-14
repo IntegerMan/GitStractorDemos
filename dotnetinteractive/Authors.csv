@@ -1,0 +1,110 @@
+Id,Email,Name,Is Bot?,Num Commits,Lines Added,Lines Deleted,Files Added,Files Deleted,Files Modified,First Commit Date UTC,Last Commit Date UTC
+1,rlander@microsoft.com,Rich Lander,False,1,21,0,1,0,0,09/21/2017 23:11:36,09/21/2017 23:11:36
+2,noreply@github.com,GitHub,False,0,0,0,0,0,0,09/21/2017 23:11:36,05/10/2024 20:29:10
+3,piotrp@microsoft.com,Piotr Puszkiewicz,False,1,2,0,1,0,0,09/21/2017 23:22:28,09/21/2017 23:22:28
+4,mnaggaga@microsoft.com,Maria Naggaga Nakanwagi,False,2,21,8,0,0,2,09/23/2017 01:47:48,03/19/2020 19:05:57
+5,maria.naggaga@live.ca,LadyNaggaga,False,46,3820,138,95,3,70,09/23/2017 01:50:32,08/28/2021 17:56:57
+6,jonsequeira@gmail.com,Jon Sequeira,False,603,140245,89627,592,415,5219,01/18/2019 21:02:03,05/10/2024 20:29:10
+7,dotnet-bot@dotnetfoundation.org,dotnet bot,False,9,176593,4845,692,0,141,05/13/2019 22:52:48,05/01/2024 08:11:09
+8,brettfo@microsoft.com,Brett V. Forsgren,False,500,241839,168800,842,237,3809,05/15/2019 19:04:41,03/10/2023 00:50:46
+9,ravi.chande@microsoft.com,Ravi Chande,False,3,349,231,1,0,28,05/15/2019 16:40:19,05/20/2019 23:03:09
+10,dicolomb@microsoft.com,Diego,False,1638,352496,425087,1087,1127,7582,05/17/2019 00:37:25,04/23/2024 22:39:37
+11,diego.colombo@microsoft.com,Diego Colombo,False,1,1,1,0,0,1,05/17/2019 16:04:07,05/17/2019 16:04:07
+12,rchande@microsoft.com,Ravi Chande,False,22,2523,881,27,3,209,05/21/2019 22:08:11,09/10/2019 21:38:18
+13,akagarw@microsoft.com,Akshita Agarwal,False,42,2592,1123,36,12,245,05/23/2019 00:36:52,09/17/2019 22:58:01
+14,colombod@me.com,Diego,False,223,17088,11289,65,22,651,05/29/2019 23:18:41,05/03/2024 02:37:10
+15,codecutter@hotmail.com,Kevin Ransom (msft),False,64,5647,3448,33,4,193,10/07/2019 17:57:46,08/04/2021 22:44:03
+16,42748379+dotnet-maestro[bot]@users.noreply.github.com,dotnet-maestro[bot],True,54,10634,9159,61,45,522,11/04/2019 22:09:18,04/29/2024 22:01:43
+17,eric.erhardt@microsoft.com,Eric Erhardt,False,3,30,156,0,0,3,11/07/2019 18:43:14,12/15/2021 23:43:27
+18,pcarter@fastmail.com,Phillip Carter,False,2,13,4,0,0,3,11/08/2019 00:13:40,06/08/2021 17:21:57
+19,chris@immortalcreation.com,Christopher Nikkel,False,1,145,0,1,0,0,12/02/2019 18:54:26,12/02/2019 18:54:26
+20,dongbow@microsoft.com,Dongbo Wang,False,40,2714,405,10,1,86,01/12/2020 16:35:17,09/19/2020 22:51:15
+21,tylerl0706@gmail.com,Tyler James Leonhardt,False,57,3866,1211,22,5,117,01/31/2020 23:07:31,07/20/2020 21:10:26
+22,43417619+sydneyhsmith@users.noreply.github.com,Sydney Smith,False,1,208,0,2,0,0,02/04/2020 20:54:23,02/04/2020 20:54:23
+23,dotnet-maestro[bot]@users.noreply.github.com,dotnet-maestro[bot],True,69,3376,3045,10,7,311,02/05/2020 13:35:41,04/08/2024 13:39:37
+24,mmitche@microsoft.com,Matt Mitchell,False,3,4,2,0,0,3,03/24/2020 20:37:25,02/01/2022 21:36:19
+25,codecutter.fsharp@hotmail.com,Kevin Ransom (msft),False,3,10,12,0,0,4,04/09/2020 02:42:16,09/16/2020 06:04:03
+26,4172652+grepme2001@users.noreply.github.com,grepme2001,False,1,1,1,0,0,1,06/02/2020 17:12:42,06/02/2020 17:12:42
+27,alexandair@live.com,Aleksandar Nikolić,False,1,4,4,0,0,1,06/16/2020 23:39:00,06/16/2020 23:39:00
+28,zeljko.brkic@gmail.com,Željko Brkić,False,4,4,8,0,0,4,06/26/2020 14:13:43,06/26/2020 14:23:55
+29,jmarolf@users.noreply.github.com,Jonathon Marolf,False,1,2,22,0,0,2,06/30/2020 00:39:36,06/30/2020 00:39:36
+30,scott@corgibytes.com,M. Scott Ford,False,1,6,6,0,0,1,07/01/2020 02:45:41,07/01/2020 02:45:41
+31,nhirschey@users.noreply.github.com,nhirschey,False,1,3,3,0,0,1,07/10/2020 18:53:12,07/10/2020 18:53:12
+32,dsyme@microsoft.com,Don Syme,False,12,1076,887,1,2,90,07/14/2020 15:40:55,08/10/2020 19:39:16
+33,keboo@users.noreply.github.com,Kevin B,False,1,385,0,11,0,0,07/29/2020 04:56:24,07/29/2020 04:56:24
+34,badger@gitter.im,The Gitter Badger,False,1,1,1,0,0,1,08/01/2020 17:22:17,08/01/2020 17:22:17
+35,sharma.loic@gmail.com,Loïc Sharma,False,2,2,2,0,0,2,08/03/2020 04:35:29,08/03/2020 04:36:21
+36,dsyme@users.noreply.github.com,Don Syme,False,2,2261,996,2,0,77,08/14/2020 17:36:48,08/19/2020 22:54:30
+37,scoundrel@gmail.com,Kevin Miller,False,1,15,0,0,0,1,08/18/2020 20:38:44,08/18/2020 20:38:44
+38,ben.simkins@gmail.com,Benjol,False,1,1,1,0,0,1,09/02/2020 06:35:31,09/02/2020 06:35:31
+39,49699333+dependabot[bot]@users.noreply.github.com,dependabot[bot],True,15,219,108,0,0,18,09/11/2020 18:32:51,01/16/2024 20:00:22
+40,470455+paulomorgado@users.noreply.github.com,Paulo Morgado,False,1,1,1,0,0,1,09/16/2020 09:37:03,09/16/2020 09:37:03
+41,krauthaufen@awx.at,Georg Haaser,False,1,5158,5,13,0,6,09/16/2020 20:54:58,09/16/2020 20:54:58
+42,codecutter@hotmail,KevinRansom,False,1,19,10,0,0,4,09/17/2020 07:53:35,09/17/2020 07:53:35
+43,vzaritovsky@hotmail.com,Vlad Zarytovskii,False,2,1599,2,20,0,2,09/19/2020 14:30:19,04/12/2023 10:53:22
+44,mike.larah@endjin.com,MikeLarah,False,1,2,2,0,0,1,10/13/2020 19:45:34,10/13/2020 19:45:34
+45,kant2002@gmail.com,Andrii Kurdiumov,False,2,2,7,0,0,2,10/22/2020 04:32:58,02/28/2023 17:51:31
+46,lol.tihan@gmail.com,Will Smith,False,1,15435,9,1,0,3,11/17/2020 19:41:36,11/17/2020 19:41:36
+47,arkada38@outlook.com,Arkadiy,False,1,1,1,0,0,1,11/19/2020 06:09:13,11/19/2020 06:09:13
+48,chris@superhappysoftware.com,superhappychris,False,1,1,1,0,0,1,12/09/2020 18:04:39,12/09/2020 18:04:39
+49,737941+loic-sharma@users.noreply.github.com,Loïc Sharma,False,1,2,2,0,0,1,12/23/2020 23:18:03,12/23/2020 23:18:03
+50,zyzhu@users.noreply.github.com,Zhenyong Zhu,False,1,16,16,0,0,3,12/30/2020 19:34:04,12/30/2020 19:34:04
+51,broneill@microsoft.com,Brian O'Neill,False,1,237,93,0,6,9,01/14/2021 20:55:40,01/14/2021 20:55:40
+52,halter73@gmail.com,Stephen Halter,False,2,1222,11,14,0,14,01/14/2021 21:25:33,03/23/2022 23:24:11
+53,ian.griffiths@endjin.com,Ian Griffiths,False,11,1624,321,10,1,49,01/08/2021 16:00:06,02/02/2021 16:59:07
+54,corivera@microsoft.com,Cory Rivera,False,22,7063,299,4,1,60,02/08/2021 16:29:48,04/03/2024 18:39:00
+55,luczhan@microsoft.com,Lucy Zhang,False,2,13,9,0,0,4,02/18/2021 00:08:28,02/24/2021 01:18:23
+56,csganapathiraju@hotmail.com,Sadhana G,False,1,1,1,0,0,1,02/19/2021 22:43:30,02/19/2021 22:43:30
+57,youssefvictor00@gmail.com,Youssef Victor,False,1,2,2,0,0,1,03/30/2021 14:24:40,03/30/2021 14:24:40
+58,lev.brovchenkov@gmail.com,WhiteBlackGoose,False,1,95,0,3,0,0,04/08/2021 01:24:37,04/08/2021 01:24:37
+59,wbg@angouri.org,WhiteBlackGoose,False,23,485,400,2,0,141,04/09/2021 05:56:32,11/28/2022 22:38:35
+60,alexander.stracker@sos-kd.org,Alex Stracker,False,1,125,45,2,0,6,04/23/2021 14:34:35,04/23/2021 14:34:35
+61,angleqian01@gmail.com,Angle Qian,False,1,2,2,0,0,1,05/27/2021 22:39:15,05/27/2021 22:39:15
+62,cerasamson@gmail.com,Cera Samson,False,1,1,4,0,0,1,05/27/2021 22:40:46,05/27/2021 22:40:46
+63,mikemort@microsoft.com,Mike Morton,False,1,6,6,0,0,1,07/14/2021 20:51:24,07/14/2021 20:51:24
+64,don.jayamanne@yahoo.com,Don Jayamanne,False,4,90,62,0,0,9,07/07/2021 19:08:09,09/22/2021 23:34:35
+65,63619224+justinmdotnet@users.noreply.github.com,Justin M,False,11,2390,745,18,0,50,09/02/2021 05:14:07,09/30/2021 23:54:42
+66,chgagnon@microsoft.com,chgagnon,False,25,831,249,2,0,54,10/12/2021 19:46:57,11/29/2021 21:25:40
+67,jofortes@microsoft.com,Jon Fortescue,False,1,20,20,0,0,1,10/04/2021 22:59:56,10/04/2021 22:59:56
+68,makoripa@microsoft.com,Madhuri Koripalli,False,3,164,29,1,0,3,10/18/2021 17:30:42,10/28/2021 16:59:52
+69,wayo.cavazos@gmail.com,dharmatech,False,3,116,129,0,0,3,11/17/2021 21:08:31,11/18/2021 20:27:30
+70,francois-david.collin@umontpellier.fr,François-David Collin,False,2,366,121,1,0,2,12/16/2021 13:14:22,12/17/2021 14:37:55
+71,clregio@microsoft.com,claudiaregio,False,4,260,97,7,0,9,01/26/2022 02:15:52,12/19/2022 22:10:57
+72,jan@tesar.tech,tesar-tech,False,1,27,27,0,0,27,02/05/2022 15:29:46,02/05/2022 15:29:46
+73,alireza@rezaee.org,Alireza Rezaee,False,1,3,3,0,0,3,03/09/2022 09:21:23,03/09/2022 09:21:23
+74,david@gardiner.net.au,David Gardiner,False,1,25,26,0,0,1,03/25/2022 02:28:43,03/25/2022 02:28:43
+75,olivier.lavoie@nosotech.com,Olivier Lavoie,False,1,20,6,0,0,2,04/17/2022 15:29:49,04/17/2022 15:29:49
+76,eaandersen@users.noreply.github.com,Eric Axel Andersen,False,1,2,2,0,0,1,06/03/2022 02:03:45,06/03/2022 02:03:45
+77,inbreaks@gmail.com,Le Ding,False,1,1,1,0,0,1,06/14/2022 03:08:41,06/14/2022 03:08:41
+78,65685447+bmitc@users.noreply.github.com,bmitc,False,2,1854,88,0,0,3,08/23/2022 21:07:57,08/25/2022 23:49:17
+79,shibanib@microsoft.com,Shibani Basava,False,27,564,176,6,0,52,07/26/2022 18:22:11,09/20/2023 03:06:01
+80,shibbas@users.noreply.github.com,shibbas,False,2,577,78,5,0,25,08/25/2022 20:46:09,11/10/2022 21:49:56
+81,mattgal@users.noreply.github.com,Matt Galbraith,False,1,7,7,0,0,3,09/01/2022 21:28:48,09/01/2022 21:28:48
+82,18668118+jasiozet@users.noreply.github.com,Jan Zalewski,False,1,1,0,0,0,1,09/05/2022 18:25:14,09/05/2022 18:25:14
+83,52120764+ambrose-leung@users.noreply.github.com,ambrose-leung,False,1,155,0,1,0,5,09/26/2022 22:59:40,09/26/2022 22:59:40
+84,shalokshalom@protonmail.ch,ShalokShalom,False,2,3,2,0,0,2,09/29/2022 21:24:54,10/03/2023 16:38:28
+85,marcinwol@gmail.com,moneroexamples,False,1,3,3,0,0,1,11/17/2022 01:11:34,11/17/2022 01:11:34
+86,glenncarr@gmail.com,Glenn Carr,False,1,1,1,0,0,1,11/18/2022 18:14:30,11/18/2022 18:14:30
+87,aajohn@microsoft.com,Abhitej John,False,8,534,57,1,0,10,12/19/2022 23:49:57,05/06/2024 15:57:40
+88,gnamboo@microsoft.com,Shyam Namboodiripad,False,37,3144,1157,24,6,248,01/27/2023 04:33:27,01/11/2024 05:18:59
+89,shyamnamboodiripad@users.noreply.github.com,Shyam N,False,33,2594,1541,8,9,281,01/28/2023 02:02:00,04/29/2024 17:00:18
+90,1271555+surfmuggle@users.noreply.github.com,surfmuggle,False,1,2,2,0,0,1,02/04/2023 11:39:05,02/04/2023 11:39:05
+91,51711029+marckruzik@users.noreply.github.com,Marc Kruzik,False,2,6,5,0,0,2,02/07/2023 20:28:25,12/05/2023 00:57:00
+92,jbilinski@users.noreply.github.com,Jamie Bilinski,False,1,1,1,0,0,1,02/16/2023 08:24:07,02/16/2023 08:24:07
+93,oscalles@microsoft.com,Osvaldo Calles,False,5,7,105,1,0,81,03/01/2023 08:26:48,04/18/2023 15:45:58
+94,blair@theunfocused.net,Blair McBride,False,1,1,1,0,0,1,03/17/2023 12:30:46,03/17/2023 12:30:46
+95,matt.burleigh@pobox.com,Matthew Burleigh,False,2,2,2,0,0,2,03/22/2023 20:56:57,03/22/2023 20:59:07
+96,billhie@microsoft.com,Bill Hiebert,False,1,28,1,0,0,2,04/03/2023 23:50:14,04/03/2023 23:50:14
+97,26466942+shibbas@users.noreply.github.com,shibbas,False,2,27585,124,80,0,32,04/06/2023 00:38:19,04/06/2023 19:13:34
+98,matt.eland@gmail.com,Matt Eland,False,2,66,38,0,0,6,04/08/2023 19:09:26,11/25/2023 17:39:04
+99,510598+ocallesp@users.noreply.github.com,Osvaldo Calles,False,17,16570,8834,106,5,200,04/17/2023 18:53:22,03/16/2024 18:03:13
+100,sharonxu96@gmail.com,sharoncxu,False,2,59,12,2,0,3,05/26/2023 18:54:37,05/26/2023 20:04:53
+101,penlv@microsoft.com,Peng Lyu,False,1,2,1,0,0,1,06/12/2023 23:42:38,06/12/2023 23:42:38
+102,33817274+bleaphar@users.noreply.github.com,bleaphar,False,15,5763,780,40,0,65,07/28/2023 02:36:54,04/25/2024 21:46:22
+103,canedca1@novartis.net,CANEDCA1,False,1,5,1,0,0,1,10/19/2023 03:13:53,10/19/2023 03:13:53
+104,cartercanedy42@gmail.com,cartercanedy,False,4,42,15,0,0,5,10/19/2023 14:20:16,10/19/2023 14:40:51
+105,36001967+kojo12228@users.noreply.github.com,Kojo Amoasi,False,1,22,22,0,0,3,12/22/2023 18:49:29,12/22/2023 18:49:29
+106,tlalok@inbox.ru,Aleksei Smirnov,False,3,101,338,0,0,3,12/13/2023 13:12:23,12/15/2023 13:05:42
+107,kojo12331@hotmail.co.uk,Kojo Amoasi,False,1,3,3,0,0,2,12/21/2023 14:23:44,12/21/2023 14:23:44
+108,phenning@microsoft.com,Phil Henning,False,2,347,133,1,0,5,02/20/2024 17:31:25,04/04/2024 23:24:41
+109,2246127+dalehhirt@users.noreply.github.com,Dale Hirt,False,1,2,1,0,0,1,04/17/2024 18:22:16,04/17/2024 18:22:16
